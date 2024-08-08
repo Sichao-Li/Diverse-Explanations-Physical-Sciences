@@ -16,4 +16,14 @@ pip install -r requirements.txt
 
 ## Case Studies
 
-We provided three case studies in physical sciences to make our points, where notebooks are included in AFLOW Bulk Modulus, Metallic Nanoparticle Property Prediction, and MoleculeNet BACE-1 Classification
+We provided three case studies in physical sciences to make our points, where notebooks are included in [AFLOW Bulk Modulus](case-1-aflow-bulk), 
+[Metallic Nanoparticle Property Prediction](case-2-nanoparticle), and [MoleculeNet BACE-1 Classification](case-3-bace).
+
+## Citation
+
+If you find this work useful, please consider citing our paper:
+
+```bibtex
+To be updated.
+```
+
