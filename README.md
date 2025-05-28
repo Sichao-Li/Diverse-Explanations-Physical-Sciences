@@ -28,6 +28,15 @@ For any questions or suggestions, please feel free to contact [Sichao Li](mailto
 If you find this work useful, please consider citing our paper:
 
 ```bibtex
-To be updated.
+@article{li2025diverse,
+  title={Diverse Explanations from Data-driven and Domain-driven Perspectives for Machine Learning Models},
+  author={Li, Sichao and Xin, Wang and Barnard, Amanda},
+  journal={Machine Learning: Science and Technology},
+  doi={10.1088/2632-2153/ad9137},
+  publisher={IOP},
+  year={2025},
+  volume={6},
+  number={1}
+}
 ```
 
